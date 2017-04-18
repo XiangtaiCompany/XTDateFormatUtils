@@ -1,0 +1,7 @@
+XTDateFormatUtils.xcodeproj/xcuserdata/
+XTDateFormatUtils.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTDateFormatUtils.xcodeproj/project.xcworkspace/xcuserdata/
